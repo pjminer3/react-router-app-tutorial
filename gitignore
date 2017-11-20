@@ -1,4 +1,5 @@
 ## .gitignore
 build
+*/node_modules
 node_modules
 coverage // when I run my tests (jest), I also generate test coverage reports
